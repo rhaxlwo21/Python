@@ -1,0 +1,10 @@
+i=1
+while i <=4:
+    j=1
+    num =1
+    while j<=i:
+        print(num,end=' ')
+        num = num+1
+        j=j+1
+    print(end='\n')
+    i=i+1
